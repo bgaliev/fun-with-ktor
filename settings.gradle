@@ -1,0 +1,4 @@
+rootProject.name = 'fun-with-ktor'
+include 'application'
+include 'web-app'
+

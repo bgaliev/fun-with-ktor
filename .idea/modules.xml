@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application.iml" group="application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fun-with-ktor.iml" filepath="$PROJECT_DIR$/.idea/modules/fun-with-ktor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-app.iml" filepath="$PROJECT_DIR$/.idea/modules/web-app.iml" group="web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-app/web-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-app/web-app_main.iml" group="web-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-app/web-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-app/web-app_test.iml" group="web-app" />
+    </modules>
+  </component>
+</project>
